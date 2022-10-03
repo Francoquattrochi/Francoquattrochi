@@ -7,6 +7,8 @@ Hi 👋 My name is Franco Quattrochi
 I've had a passion for programming and creating things over the years, currently pursuing a double major in math and computer science at the University of Toronto. Always love learning new things and new technologies
 
 * 🌍  I'm based in Toronto
+* Currently learning node and react 
+
 
 ### Skills
 
