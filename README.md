@@ -4,7 +4,7 @@ Hi 👋 My name is Franco Quattrochi
 4th Year UoT Student
 --------------------
 
-I've had a passion for programming and creating things over the years, currently pursuing a double major in math and computer science at the University of Toronto. Always love learning new things and new technologies
+I've had a passion for programming and creating things over the years, currently studying at the University of Toronto with a focus in computer science and math. Always love learning new things and new technologies
 
 * 🌍  I'm based in Toronto
 
